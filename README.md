@@ -1,0 +1,1 @@
+This is CelticsLucy's first git project!
